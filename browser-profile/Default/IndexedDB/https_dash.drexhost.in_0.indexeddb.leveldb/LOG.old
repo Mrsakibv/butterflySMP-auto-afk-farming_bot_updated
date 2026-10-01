@@ -1,0 +1,30 @@
+2026/10/01-09:44:58.321 2960 Reusing MANIFEST C:\Butterfly SMP\Butterfly drexhosting afk bot\browser-profile\Default\IndexedDB\https_dash.drexhost.in_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/01-09:44:58.322 2960 Recovering log #14
+2026/10/01-09:44:58.446 2960 Reusing old log C:\Butterfly SMP\Butterfly drexhosting afk bot\browser-profile\Default\IndexedDB\https_dash.drexhost.in_0.indexeddb.leveldb/000014.log 
+2026/10/01-09:45:03.327 2960 Level-0 table #19: started
+2026/10/01-09:45:03.360 2960 Level-0 table #19: 840842 bytes OK
+2026/10/01-09:45:03.363 2960 Delete type=0 #14
+2026/10/01-09:45:03.805 3240 Compacting 1@1 + 1@2 files
+2026/10/01-09:45:03.826 3240 Generated table #20@1: 128 keys, 12494 bytes
+2026/10/01-09:45:03.826 3240 Compacted 1@1 + 1@2 files => 12494 bytes
+2026/10/01-09:45:03.827 3240 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-09:45:03.828 3240 Delete type=2 #16
+2026/10/01-09:45:03.828 3240 Delete type=2 #19
+2026/10/01-09:50:45.726 2960 Level-0 table #22: started
+2026/10/01-09:50:45.763 2960 Level-0 table #22: 722495 bytes OK
+2026/10/01-09:50:45.765 2960 Delete type=0 #18
+2026/10/01-09:50:52.374 790 Compacting 1@1 + 1@2 files
+2026/10/01-09:50:52.397 790 Generated table #23@1: 128 keys, 12498 bytes
+2026/10/01-09:50:52.397 790 Compacted 1@1 + 1@2 files => 12498 bytes
+2026/10/01-09:50:52.399 790 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-09:50:52.399 790 Delete type=2 #20
+2026/10/01-09:50:52.400 790 Delete type=2 #22
+2026/10/01-09:56:27.931 2960 Level-0 table #25: started
+2026/10/01-09:56:27.971 2960 Level-0 table #25: 727672 bytes OK
+2026/10/01-09:56:27.974 2960 Delete type=0 #21
+2026/10/01-09:56:33.234 790 Compacting 1@1 + 1@2 files
+2026/10/01-09:56:33.258 790 Generated table #26@1: 128 keys, 12521 bytes
+2026/10/01-09:56:33.258 790 Compacted 1@1 + 1@2 files => 12521 bytes
+2026/10/01-09:56:33.259 790 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-09:56:33.260 790 Delete type=2 #23
+2026/10/01-09:56:33.260 790 Delete type=2 #25

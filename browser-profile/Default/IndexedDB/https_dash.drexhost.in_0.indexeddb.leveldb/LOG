@@ -1,0 +1,55 @@
+2026/10/01-10:05:18.654 3018 Reusing MANIFEST C:\Butterfly SMP\Butterfly drexhosting afk bot\browser-profile\Default\IndexedDB\https_dash.drexhost.in_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/01-10:05:18.655 3018 Recovering log #24
+2026/10/01-10:05:18.685 3018 Reusing old log C:\Butterfly SMP\Butterfly drexhosting afk bot\browser-profile\Default\IndexedDB\https_dash.drexhost.in_0.indexeddb.leveldb/000024.log 
+2026/10/01-10:09:56.681 20f0 Level-0 table #29: started
+2026/10/01-10:09:56.724 20f0 Level-0 table #29: 749542 bytes OK
+2026/10/01-10:09:56.727 20f0 Delete type=0 #24
+2026/10/01-10:09:57.163 20f0 Compacting 1@1 + 1@2 files
+2026/10/01-10:09:57.183 20f0 Generated table #30@1: 131 keys, 10261 bytes
+2026/10/01-10:09:57.183 20f0 Compacted 1@1 + 1@2 files => 10261 bytes
+2026/10/01-10:09:57.185 20f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:09:57.185 20f0 Delete type=2 #26
+2026/10/01-10:09:57.186 20f0 Delete type=2 #29
+2026/10/01-10:15:41.832 20f0 Level-0 table #32: started
+2026/10/01-10:15:41.874 20f0 Level-0 table #32: 732124 bytes OK
+2026/10/01-10:15:41.877 20f0 Delete type=0 #28
+2026/10/01-10:15:48.484 3018 Compacting 1@1 + 1@2 files
+2026/10/01-10:15:48.510 3018 Generated table #33@1: 131 keys, 7844 bytes
+2026/10/01-10:15:48.510 3018 Compacted 1@1 + 1@2 files => 7844 bytes
+2026/10/01-10:15:48.512 3018 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:15:48.513 3018 Delete type=2 #30
+2026/10/01-10:15:48.513 3018 Delete type=2 #32
+2026/10/01-10:21:24.486 20f0 Level-0 table #35: started
+2026/10/01-10:21:24.526 20f0 Level-0 table #35: 732340 bytes OK
+2026/10/01-10:21:24.529 20f0 Delete type=0 #31
+2026/10/01-10:21:30.847 39ac Compacting 1@1 + 1@2 files
+2026/10/01-10:21:30.876 39ac Generated table #36@1: 131 keys, 7847 bytes
+2026/10/01-10:21:30.876 39ac Compacted 1@1 + 1@2 files => 7847 bytes
+2026/10/01-10:21:30.880 39ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:21:30.881 39ac Delete type=2 #33
+2026/10/01-10:21:30.881 39ac Delete type=2 #35
+2026/10/01-10:27:06.876 20f0 Level-0 table #38: started
+2026/10/01-10:27:06.907 20f0 Level-0 table #38: 734212 bytes OK
+2026/10/01-10:27:06.908 20f0 Delete type=0 #34
+2026/10/01-10:27:14.057 39ac Compacting 1@1 + 1@2 files
+2026/10/01-10:27:14.081 39ac Generated table #39@1: 131 keys, 7844 bytes
+2026/10/01-10:27:14.081 39ac Compacted 1@1 + 1@2 files => 7844 bytes
+2026/10/01-10:27:14.082 39ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:27:14.083 39ac Delete type=2 #36
+2026/10/01-10:27:14.083 39ac Delete type=2 #38
+2026/10/01-10:33:32.048 20f0 Level-0 table #41: started
+2026/10/01-10:33:32.088 20f0 Level-0 table #41: 746736 bytes OK
+2026/10/01-10:33:32.090 20f0 Delete type=0 #37
+2026/10/01-10:33:37.696 3018 Compacting 1@1 + 1@2 files
+2026/10/01-10:33:37.724 3018 Generated table #42@1: 135 keys, 7966 bytes
+2026/10/01-10:33:37.724 3018 Compacted 1@1 + 1@2 files => 7966 bytes
+2026/10/01-10:33:37.725 3018 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:33:37.726 3018 Delete type=2 #39
+2026/10/01-10:33:37.726 3018 Delete type=2 #41
+2026/10/01-10:39:20.313 20f0 Level-0 table #44: started
+2026/10/01-10:39:20.377 20f0 Level-0 table #44: 742762 bytes OK
+2026/10/01-10:39:20.380 20f0 Delete type=0 #40
+2026/10/01-10:39:29.184 39ac Compacting 1@1 + 1@2 files
+2026/10/01-10:39:29.233 39ac Generated table #45@1: 135 keys, 7975 bytes
+2026/10/01-10:39:29.233 39ac Compacted 1@1 + 1@2 files => 7975 bytes
+2026/10/01-10:39:29.234 39ac compacted to: files[ 0 0 1 0 0 0 0 ]
